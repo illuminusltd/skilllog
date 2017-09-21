@@ -1,7 +1,7 @@
 # Himanshu Sahu
 
-17/09/2017  22:33:15  
+21/09/2017  23:23  
 
-Completed Advanced working with function of part1 from javascript.info
+Completed Part2 from javascript.info
 ___
 
